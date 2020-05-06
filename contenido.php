@@ -1,5 +1,0 @@
-<?php 
-echo "<h1> Contenido de la materia de Servidores </h1><br  />";
-echo "<p> Este es un ejercicio de servidores que se mostrara en heroku</p>";
-?>
- 
